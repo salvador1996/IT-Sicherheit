@@ -1,0 +1,6 @@
+sudo openvpn /home/salvador/Bureau/openvpn/client.conf
+
+sudo service openvpn start client
+
+
+sudo /etc/init.d/openvpn start client
